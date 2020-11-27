@@ -22,8 +22,6 @@ gem 'jbuilder', '~> 2.7'
 # Use Active Model has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
-# Use CoffeeScript for .coffee assets and views
-gem 'coffee-rails'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier'
 
